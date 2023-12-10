@@ -46,5 +46,6 @@ export default defineComponent({
     <CarDetailAttribute :features="state.car.features" />
     <CarDetailDescription :description="state.car.description" />
     <CarDetailContact />
+    aa
   </div>
 </template>
